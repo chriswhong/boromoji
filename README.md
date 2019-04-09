@@ -2,6 +2,13 @@
 
 Create static images of NYC's 5 boroughs using leaflet and puppeteer
 
+![The Bronx](https://github.com/chriswhong/boromoji/blob/master/output/bronx.jpg)
+![Brooklyn](https://github.com/chriswhong/boromoji/blob/master/output/brooklyn.jpg)
+![Manhattan](https://github.com/chriswhong/boromoji/blob/master/output/manhattan.jpg)
+![Staten Island](https://github.com/chriswhong/boromoji/blob/master/output/statenisland.jpg)
+![Queens](https://github.com/chriswhong/boromoji/blob/master/output/queens.jpg)
+
+
 ## How to Use
 
 - Install dependencies
